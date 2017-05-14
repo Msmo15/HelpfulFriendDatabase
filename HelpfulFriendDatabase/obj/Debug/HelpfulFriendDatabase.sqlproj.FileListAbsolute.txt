@@ -1,0 +1,9 @@
+C:\Users\Exxri\Desktop\HelpfulFriendDatabase\HelpfulFriendDatabase\bin\Debug\HelpfulFriendDatabase.dacpac
+C:\Users\Exxri\Desktop\HelpfulFriendDatabase\HelpfulFriendDatabase\bin\Debug\HelpfulFriendDatabase.dll
+C:\Users\Exxri\Desktop\HelpfulFriendDatabase\HelpfulFriendDatabase\bin\Debug\HelpfulFriendDatabase.pdb
+C:\Users\Exxri\Desktop\HelpfulFriendDatabase\HelpfulFriendDatabase\obj\Debug\Model.xml
+C:\Users\Exxri\Desktop\HelpfulFriendDatabase\HelpfulFriendDatabase\obj\Debug\refactor.xml
+C:\Users\Exxri\Desktop\HelpfulFriendDatabase\HelpfulFriendDatabase\obj\Debug\postdeploy.sql
+C:\Users\Exxri\Desktop\HelpfulFriendDatabase\HelpfulFriendDatabase\obj\Debug\predeploy.sql
+C:\Users\Exxri\Desktop\HelpfulFriendDatabase\HelpfulFriendDatabase\obj\Debug\HelpfulFriendDatabase.dll
+C:\Users\Exxri\Desktop\HelpfulFriendDatabase\HelpfulFriendDatabase\obj\Debug\HelpfulFriendDatabase.pdb
